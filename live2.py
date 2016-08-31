@@ -9,8 +9,8 @@ import time
 import io
 
 # 创建以日期命名的txt文件, print 时加入file = file1可重写入该文件
-crFile = time.strftime("%Y%m%d", time.localtime())
-file1 = open("LiveNews" + crFile + ".txt", 'w')
+# crFile = time.strftime("%Y%m%d", time.localtime())
+# file1 = open("LiveNews" + crFile + ".txt", 'a')
 
 
 def fetchMao():
@@ -19,10 +19,10 @@ def fetchMao():
     parser = BeautifulSoup(urlrequest, "html.parser")
     elist = parser.find('div', 'events-list-s').findAll('li', 'item')
     for event in elist:
-        # with open(file1, 'wt') as f:
-        print(event.findNext('a').text, file = file1)
-        print(event.findNext('p').text, file = file1)
-        print(event.findNext('a')['href'], file = file1)
+        with open("livebeta.txt", 'a') as f:    # 使用with，可以自动关闭文件，参数a（add），表示追加内容
+            print(event.findNext('a').text, file = f)
+            print(event.findNext('p').text, file = f)
+            print(event.findNext('a')['href'], file = f)
 
 
 
@@ -31,15 +31,17 @@ def fetchMao():
     parser2 = BeautifulSoup(url2, 'html.parser')
     firstendevent = parser2.find('div', 'events-list-s').findAll('li', 'item close')
     for firstend in firstendevent:
-        print('this is the first closed itme', file = file1)
-        print(firstend.find('a').text, file = file1)
-        print(firstend.find('p').text, file = file1)
-        print(firstend.find('a')['href'], file = file1)
+        with open("livebeta.txt", 'a') as f:
+            print('this is the first closed itme', file = f)
+            print(firstend.find('a').text, file = f)
+            print(firstend.find('p').text, file = f)
+            print(firstend.find('a')['href'], file = f)
 
     # 搜索所有翻页并打印出
     alist = parser.find('div', 'paginator').findAll('a')
     for ahref in alist:
-        print('https://site.douban.com/'+ ahref.findNext('a')['href'], file = file1)
+         with open("livebeta.txt", 'a') as f:
+            print('https://site.douban.com/'+ ahref.findNext('a')['href'], file = f)
 
 
 def main(argv):
