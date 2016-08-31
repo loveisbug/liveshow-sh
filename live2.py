@@ -1,4 +1,10 @@
 # -*- coding: utf-8 -*-
+'''
+0831开始加入备注：
+实现dict存储url、时间；
+实现sorted 倒序排列，并指定key键；
+'''
+
 
 import urllib
 from urllib.request import urlopen
@@ -7,6 +13,7 @@ from bs4 import BeautifulSoup
 import sys
 import time
 import io
+
 
 # 创建以日期命名的txt文件, print 时加入file = file1可重写入该文件
 # crFile = time.strftime("%Y%m%d", time.localtime())
@@ -22,10 +29,15 @@ def fetchMao():
         with open("livebeta.txt", 'a') as f:    # 使用with，可以自动关闭文件，参数a（add），表示追加内容
             print(event.findNext('a').text, file = f)
             print(event.findNext('p').text, file = f)
-            print(event.findNext('a')['href'], file = f)
+            urlevent = event.findNext('a')['href']
+            print(urlevent, file = f)
             with open("timedesc.txt", 'a') as t:
-                print (event.findNext('a')['href'][8:], file = t)
-                print(event.findNext('span','time').text[:2]+event.findNext('span','time').text[3:5], file = t)
+                print (event.findNext('a')['href'][29:], file = t)
+                urltime = event.findNext('span','time').text[:2]+event.findNext('span','time').text[3:5]
+                print(urltime, file = t)
+                dict = (urlevent,urltime)     # 实现字典
+                with open("newresult.txt", 'a') as sexy:
+                    print(sorted(dict,key=lambda d: d[1]), file = sexy)  #sorted倒序排列输出
 
     # for dati in elist:
     #     with open("timedesc.txt", 'a') as t:
