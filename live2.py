@@ -23,6 +23,13 @@ def fetchMao():
             print(event.findNext('a').text, file = f)
             print(event.findNext('p').text, file = f)
             print(event.findNext('a')['href'], file = f)
+            with open("timedesc.txt", 'a') as t:
+                print (event.findNext('a')['href'][8:], file = t)
+                print(event.findNext('span','time').text[:2]+event.findNext('span','time').text[3:5], file = t)
+
+    # for dati in elist:
+    #     with open("timedesc.txt", 'a') as t:
+    #         print (event.findNext('span', 'time').text, file = t)
 
 
 
