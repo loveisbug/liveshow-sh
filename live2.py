@@ -37,7 +37,7 @@ def fetchMao():
                 print(urltime, file = t)
                 dict = (urlevent,urltime)     # 实现字典
                 with open("newresult.txt", 'a') as sexy:
-                    print(sorted(dict,key=lambda d: d[1]), file = sexy)  #sorted倒序排列输出
+                    print(sorted(dict,key=lambda d: d[1],reverse=True), file = sexy)  #sorted倒序排列输出
 
     # for dati in elist:
     #     with open("timedesc.txt", 'a') as t:
