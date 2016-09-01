@@ -35,12 +35,13 @@ def fetchMao():
             # detailinfo.txt用来收集详情页内容，但是定位不好，取不到有效值，而且循环貌似有错，收集10个标题，再收集10个时间，再10个价格
             detailrequest = urlopen(urlevent)
             Detailparser = BeautifulSoup(detailrequest, 'html.parser')
-            DetailInfolist = Detailparser.find('div', 'eventwrap').findAll('div', 'event-info')
+            DetailInfolist = Detailparser.find('div', 'event-info')
             for DetailInfo in DetailInfolist:
                 # print (DetailInfo.findNext('h1').text)
                 with open('detailinfo.txt', 'a', encoding='utf-8') as detail:
                     print (DetailInfo.findNext('h1').text, file = detail)
-                    print (DetailInfo.findNext('span').text, file = detail)
+                    print (DetailInfo.findNext('div', 'event-detail').text, file = detail)
+                    # print (DetailInfo.findNext('li').text, file = detail)
                     # print (DetailInfo.findNext('span').text, file = detail)
             print(urlevent, file = f)
             with open("timedesc.txt", 'a') as t:
