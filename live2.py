@@ -4,6 +4,7 @@
 实现dict存储url、时间；
 实现sorted 倒序排列，并指定key键；
 0901:实现每个url的请求，并读取detail信息，但是很杂乱，没法用啊！
+0901晚上：detail信息终于整齐能看了，split(' ')[1]，text.strip()两个记住啦！
 '''
 
 
@@ -26,21 +27,28 @@ def fetchMao():
     # html_src = urllib.urlopen(urlrequest).read()
     parser = BeautifulSoup(urlrequest, "html.parser")
     elist = parser.find('div', 'events-list-s').findAll('li', 'item')
+    # for event in elist:
+    #     with open("livebeta.txt", 'a') as f:    # 使用with，可以自动关闭文件，参数a（add），表示追加内容
+    #         print(event.findNext('a').text, file = f)
+    #         print(event.findNext('p').text, file = f)
     for event in elist:
-        with open("livebeta.txt", 'a') as f:    # 使用with，可以自动关闭文件，参数a（add），表示追加内容
-            print(event.findNext('a').text, file = f)
-            print(event.findNext('p').text, file = f)
-            urlevent = event.findNext('a')['href']
-
-            # detailinfo.txt用来收集详情页内容，但是定位不好，取不到有效值，而且循环貌似有错，收集10个标题，再收集10个时间，再10个价格
+        urlevent = event.findNext('a')['href']
+        with open('0901detailsuccess.txt', 'a', encoding='utf-8') as detail:
+            print(urlevent, file=detail)
             detailrequest = urlopen(urlevent)
             Detailparser = BeautifulSoup(detailrequest, 'html.parser')
             DetailInfolist = Detailparser.find('div', 'event-info')
-            with open('0901detailinfo.txt', 'a', encoding='utf-8') as detail:
-                print(urlevent, file = detail)
-                print (DetailInfolist.findNext('h1').text, file = detail)
-                print (DetailInfolist.findNext('li','calendar-str-item ').text, file = detail)
-                print (DetailInfolist.findNext('span', 'tickets-info-price').text.split(' ')[1], file = detail)
+            # text.strip()过滤掉了要输出文字中的空格
+            print (DetailInfolist.findNext('h1'). text.strip(),file=detail)
+            print (DetailInfolist.findNext('li','calendar-str-item ').text,file=detail)
+            # split(' ')[1] 是用来过滤￥中文货币符号和空格的， \n是为了空一行出来间隔用
+            # print (DetailInfolist.findNext('span', 'tickets-info-price').text.split(' ')[1]+'\n',file=detail)
+            # print('\n', file=detail)
+        # with open('0901detailinfo.txt', 'a', encoding='utf-8') as detail:
+        #     print(urlevent, file = detail)
+        #     print (DetailInfolist.findNext('h1').text, file = detail)
+        #     print (DetailInfolist.findNext('li','calendar-str-item ').text, file = detail)
+        #     print (DetailInfolist.findNext('span', 'tickets-info-price').text.split(' ')[1], file = detail)
 
 
             # for DetailInfo in DetailInfolist:
@@ -50,14 +58,14 @@ def fetchMao():
             #         print (DetailInfo.findNext('li', 'calendar-str-item ',encoding='utf-8').text, file = detail)
             #         # print (DetailInfo.findNext('li').text, file = detail)
             #         # print (DetailInfo.findNext('span').text, file = detail)
-            print(urlevent, file = f)
-            with open("timedesc.txt", 'a') as t:
-                print (event.findNext('a')['href'][29:], file = t)
-                urltime = event.findNext('span','time').text[:2]+event.findNext('span','time').text[3:5]
-                print(urltime, file = t)
-                dict = (urlevent,urltime)     # 实现字典
-                with open("newresult.txt", 'a') as sexy:
-                    print(sorted(dict,key=lambda d: d[1],reverse=True), file = sexy)  #sorted 的reverse=True倒序排列输出
+            # print(urlevent, file = f)
+            # with open("timedesc.txt", 'a') as t:
+            #     print (event.findNext('a')['href'][29:], file = t)
+            #     urltime = event.findNext('span','time').text[:2]+event.findNext('span','time').text[3:5]
+            #     print(urltime, file = t)
+            #     dict = (urlevent,urltime)     # 实现字典
+            #     with open("newresult.txt", 'a') as sexy:
+            #         print(sorted(dict,key=lambda d: d[1],reverse=True), file = sexy)  #sorted 的reverse=True倒序排列输出
 
     # for dati in elist:
     #     with open("timedesc.txt", 'a') as t:
@@ -66,15 +74,15 @@ def fetchMao():
 
 
     # 查找所有已结束节目，并打印出第一个已结束的节目，url翻页到了第二页，才有结束的节目
-    url2 = urlopen('https://site.douban.com/maosh/widget/events/1441569/?start=10')
-    parser2 = BeautifulSoup(url2, 'html.parser')
-    firstendevent = parser2.find('div', 'events-list-s').findAll('li', 'item close')
-    for firstend in firstendevent:
-        with open("livebeta.txt", 'a') as f:
-            print('this is the first closed itme', file = f)
-            print(firstend.find('a').text, file = f)
-            print(firstend.find('p').text, file = f)
-            print(firstend.find('a')['href'], file = f)
+    # url2 = urlopen('https://site.douban.com/maosh/widget/events/1441569/?start=10')
+    # parser2 = BeautifulSoup(url2, 'html.parser')
+    # firstendevent = parser2.find('div', 'events-list-s').findAll('li', 'item close')
+    # for firstend in firstendevent:
+    #     with open("livebeta.txt", 'a') as f:
+    #         print('this is the first closed itme', file = f)
+    #         print(firstend.find('a').text, file = f)
+    #         print(firstend.find('p').text, file = f)
+    #         print(firstend.find('a')['href'], file = f)
 
     # 搜索所有翻页并打印出
     alist = parser.find('div', 'paginator').findAll('a')
