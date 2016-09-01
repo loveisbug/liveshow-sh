@@ -36,13 +36,20 @@ def fetchMao():
             detailrequest = urlopen(urlevent)
             Detailparser = BeautifulSoup(detailrequest, 'html.parser')
             DetailInfolist = Detailparser.find('div', 'event-info')
-            for DetailInfo in DetailInfolist:
-                # print (DetailInfo.findNext('h1').text)
-                with open('detailinfo.txt', 'a', encoding='utf-8') as detail:
-                    print (DetailInfo.findNext('h1').text, file = detail)
-                    print (DetailInfo.findNext('div', 'event-detail').text, file = detail)
-                    # print (DetailInfo.findNext('li').text, file = detail)
-                    # print (DetailInfo.findNext('span').text, file = detail)
+            with open('0901detailinfo.txt', 'a', encoding='utf-8') as detail:
+                print(urlevent, file = detail)
+                print (DetailInfolist.findNext('h1').text, file = detail)
+                print (DetailInfolist.findNext('li','calendar-str-item ').text, file = detail)
+                print (DetailInfolist.findNext('span', 'tickets-info-price').text.split(' ')[1], file = detail)
+
+
+            # for DetailInfo in DetailInfolist:
+            #     # print (DetailInfo.findNext('h1').text)
+            #     with open('detailinfo.txt', 'a', encoding='utf-8') as detail:
+            #         # print (DetailInfo.findNext('h1').text, file = detail)
+            #         print (DetailInfo.findNext('li', 'calendar-str-item ',encoding='utf-8').text, file = detail)
+            #         # print (DetailInfo.findNext('li').text, file = detail)
+            #         # print (DetailInfo.findNext('span').text, file = detail)
             print(urlevent, file = f)
             with open("timedesc.txt", 'a') as t:
                 print (event.findNext('a')['href'][29:], file = t)
