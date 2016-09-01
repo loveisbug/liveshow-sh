@@ -3,6 +3,7 @@
 0831开始加入备注：
 实现dict存储url、时间；
 实现sorted 倒序排列，并指定key键；
+0901:实现每个url的请求，并读取detail信息，但是很杂乱，没法用啊！
 '''
 
 
@@ -30,6 +31,17 @@ def fetchMao():
             print(event.findNext('a').text, file = f)
             print(event.findNext('p').text, file = f)
             urlevent = event.findNext('a')['href']
+
+            # detailinfo.txt用来收集详情页内容，但是定位不好，取不到有效值，而且循环貌似有错，收集10个标题，再收集10个时间，再10个价格
+            detailrequest = urlopen(urlevent)
+            Detailparser = BeautifulSoup(detailrequest, 'html.parser')
+            DetailInfolist = Detailparser.find('div', 'eventwrap').findAll('div', 'event-info')
+            for DetailInfo in DetailInfolist:
+                # print (DetailInfo.findNext('h1').text)
+                with open('detailinfo.txt', 'a', encoding='utf-8') as detail:
+                    print (DetailInfo.findNext('h1').text, file = detail)
+                    print (DetailInfo.findNext('span').text, file = detail)
+                    # print (DetailInfo.findNext('span').text, file = detail)
             print(urlevent, file = f)
             with open("timedesc.txt", 'a') as t:
                 print (event.findNext('a')['href'][29:], file = t)
@@ -37,7 +49,7 @@ def fetchMao():
                 print(urltime, file = t)
                 dict = (urlevent,urltime)     # 实现字典
                 with open("newresult.txt", 'a') as sexy:
-                    print(sorted(dict,key=lambda d: d[1],reverse=True), file = sexy)  #sorted倒序排列输出
+                    print(sorted(dict,key=lambda d: d[1],reverse=True), file = sexy)  #sorted 的reverse=True倒序排列输出
 
     # for dati in elist:
     #     with open("timedesc.txt", 'a') as t:
