@@ -33,8 +33,12 @@ for s in list:
         print(x1[2].text.replace('\t','').replace('\n','').replace(' ','').replace('\xa0','').split('\n'))
         print('\n')
         if s3 >0:
-            print(urlevent+s1)
             print('game is over !')
-            break;
+            break
+    else:
+        continue
+    break
+
+
 
 print('see u !')
