@@ -17,7 +17,7 @@ def sendmail(subject, content):
 	msg = MIMEText(content, 'html', 'utf-8')
 	msg['Subject'] = subject
 	msg['From'] = me
-	msg['To'] = ','.join(maillist)
+	msg['To'] = ', '.join(maillist)
 	try:
 		smtp = smtplib.SMTP(email_host)
 		smtp.login(email_user, email_pwd)
@@ -28,8 +28,14 @@ def sendmail(subject, content):
 		print e
 		print 'email send failed.'
 
-def fetchMao():
-	baseurl = 'https://site.douban.com/maosh/widget/events/1441569/?start='
+livedict = {
+			'MAO' : 'maosh/1441569',
+			'YYT' : 'yuyintang_h/1217192',
+			'QSW' : '187956/11298220',
+			'OST' : '176416/10189365'}
+
+def fetchliveshow(livehouse):
+	baseurl = 'https://site.douban.com/' + livedict[livehouse].split('/')[0] + '/widget/events/' + livedict[livehouse].split('/')[1] + '/?start='
 	pagedepth = 10
 	pagecnt = 0
 	urlrequest = urllib2.Request(baseurl + str(pagecnt))
@@ -46,22 +52,27 @@ def fetchMao():
 		parser = BeautifulSoup(html_src, "html.parser")
 		elist = parser.find('div', 'events-list-s').findAll('li', 'item ')
 		print len(elist), i
-		if len(elist) < pagedepth:
-			break
 		for event in elist:
 			eventurl = event.findNext('a')['href']
 			urlrequest = urllib2.Request(eventurl)
 			html_src = urllib2.urlopen(urlrequest).read()
 			parser = BeautifulSoup(html_src, "html.parser")
-			title = parser.find('h1', {'itemprop' : "summary"}).contents[0].strip()
+			title = parser.find('h1', {'itemprop' : 'summary'}).contents[0].strip()
 			datetime = parser.find('li', 'calendar-str-item').text.strip()
 			prices = parser.findAll('span', 'tickets-info-price')
 			price = prices[-1].text.strip() if len(prices) else ' '
 			text += '<b>' + datetime + '&nbsp;&nbsp;&nbsp;&nbsp;' + price + '</b><br>' + '<a href="' + eventurl + '">' + title + '</a><br><br>'
-	sendmail('Mao Liveshow - ' + str(date.today()), text)
+		if len(elist) < pagedepth:
+			break
+	sendmail(livehouse + ' Liveshow - ' + str(date.today()), text)
 
 def main(argv):
-	fetchMao()
+	if len(argv) > 1:
+		fetchliveshow(argv[1])
+		return 0
+	else:
+		print "Please input the livehouse: MAO, YYT, QSW, OST."
+		return 1
 
 if __name__ == '__main__':
 	sys.exit(main(sys.argv))
