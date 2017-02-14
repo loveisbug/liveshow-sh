@@ -32,7 +32,9 @@ livedict = {
 			'MAO' : 'maosh/1441569',
 			'YYT' : 'yuyintang_h/1217192',
 			'QSW' : '187956/11298220',
-			'OST' : '176416/10189365'}
+			'OST' : '176416/10189365',
+			# 'HAL' : '273062/191469274',
+			'JZC' : 'jzclub/1357869',}
 
 def fetchliveshow(livehouse):
 	baseurl = 'https://site.douban.com/' + livedict[livehouse].split('/')[0] + '/widget/events/' + livedict[livehouse].split('/')[1] + '/?start='
