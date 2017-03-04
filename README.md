@@ -1,6 +1,9 @@
 # liveshow
 
 ## 2017
+03-11 | 育音堂 | Chinese Football
+
+03-08 | On Stage | 康姆士 COM'Z
 
 01-20 | 秘境 | 芬兰之声 Sound Of Finland（JPTH，马维，刘健）
 
