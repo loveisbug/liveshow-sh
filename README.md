@@ -3,7 +3,7 @@
 ## 2017
 03-11 | 育音堂 | Chinese Football
 
-03-08 | On Stage | 康姆士 COM'Z
+03-08 | On Stage | [康姆士 COM'Z](http://mp.weixin.qq.com/s/w8X-bljzJV6hvUxV90PFgw)
 
 01-20 | 秘境 | 芬兰之声 Sound Of Finland（JPTH，马维，刘健）
 
