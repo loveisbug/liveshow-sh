@@ -60,7 +60,12 @@ def fetchliveshow(livehouse):
 			html_src = urllib2.urlopen(urlrequest).read()
 			parser = BeautifulSoup(html_src, "html.parser")
 			title = parser.find('h1', {'itemprop' : 'summary'}).contents[0].strip()
-			datetime = parser.find('li', 'calendar-str-item').text.strip()
+			try:
+				datetime = parser.find('li', 'calendar-str-item').text.strip()
+			except AttributeError:
+				datetime = next(parser.find('ul', 'calendar-strs ').findNext('li').children).strip()
+			except:
+				datetime = ''
 			prices = parser.findAll('span', 'tickets-info-price')
 			price = prices[-1].text.strip() if len(prices) else ' '
 			text += '<b>' + datetime + '&nbsp;&nbsp;&nbsp;&nbsp;' + price + '</b><br>' + '<a href="' + eventurl + '">' + title + '</a><br><br>'
