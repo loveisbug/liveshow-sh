@@ -2,6 +2,12 @@
 
 ## 2017
 
+08-13 | 万代南梦宫 | 杨乃文
+
+08-12 | 育音堂 | Shanghai Calling（The Harridans，Macondo，谷水车间，21 Grams）
+
+08-11 | 万代南梦宫 | 谢春花
+
 07-21 | Modern Sky Lab上海 | “我爱夏夜”（21 Grams，老阿姨，Something Against Y，董黑木）
 
 06-23 | 万代南梦宫 | Anoice
