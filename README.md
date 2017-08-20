@@ -2,6 +2,10 @@
 
 ## 2017
 
+08-20 | MAO | 旅行团
+
+08-18 | 万代南梦宫 | For a Minor Reflection
+
 08-13 | 万代南梦宫 | 杨乃文
 
 08-12 | 育音堂 | Shanghai Calling（The Harridans，Macondo，谷水车间，21 Grams）
