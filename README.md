@@ -1,6 +1,9 @@
 # liveshow
 
 ## 2017
+08-25 | 哈雷 | 背心摇滚（失眠岛，BUZZ，Cry Romeo）
+
+08-24 | 万代南梦宫 | Sirenia
 
 08-20 | MAO | 旅行团
 
