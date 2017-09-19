@@ -1,6 +1,8 @@
 # liveshow
 
 ## 2017
+09-18 | 育音堂 | Bohemian Betyars
+
 09-17 | 万代南梦宫 | 果酱星工场第三期（Jacky Danny子木，石磊4ROCK，闪星）
 
 09-09 | 育音堂 | 孔雀眼 + 黄玠玮
