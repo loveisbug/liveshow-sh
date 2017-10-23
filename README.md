@@ -1,6 +1,19 @@
 # liveshow
 
 ## 2017
+
+10-28 | Chair Club | Sugar Blue
+
+10-22 | 万代南梦宫 | 藤原道山 Japan Chic Live 2017 with 木住野佳子 钢琴爵士演奏
+
+10-21 | 万代南梦宫 | moumoon FULLMOON Live Special2017 沐月·2017中秋名月
+
+10-12 | 育音堂 | HOTONE之夜（精神糖果，迪悗，汶麟，和平和浪，Miss Mix）
+
+09-22 | 万代南梦宫 | Double Summer（蛤小蟆，方糖泡泡，电弃都市，Double大布偶，Beat Generation 1980s，Foggi Ra￥）
+
+09-19 | 育音堂 | 只德野子 - 津轻三味线
+
 09-18 | 育音堂 | Bohemian Betyars
 
 09-17 | 万代南梦宫 | 果酱星工场第三期（Jacky Danny子木，石磊4ROCK，闪星）
