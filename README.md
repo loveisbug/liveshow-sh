@@ -4,6 +4,10 @@
 
 10-28 | Chair Club | Sugar Blue
 
+10-27 | 万代南梦宫 | 张玮玮与郭龙“沿江专场”
+
+10-26 | MAO | Frandé法蘭黛
+
 10-22 | 万代南梦宫 | 藤原道山 Japan Chic Live 2017 with 木住野佳子 钢琴爵士演奏
 
 10-21 | 万代南梦宫 | moumoon FULLMOON Live Special2017 沐月·2017中秋名月
