@@ -2,6 +2,10 @@
 
 ## 2017
 
+12-09 | 加空间 | 顽童MJ116
+
+12-01 | 696Live | Something Against Y & 和平和浪
+
 11-04 | Modern Sky Lab上海 | 摇滚上市——二手玫瑰2017亚洲巡演
 
 10-28 | Chair Club | Sugar Blue
