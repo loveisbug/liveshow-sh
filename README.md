@@ -2,6 +2,20 @@
 
 ## 2018
 
+03-12 | 万代南梦宫 | Mogwai
+
+03-11 | MAO | 天堂
+
+03-10 | MAO | the fin.（解离的真实暖场）
+
+03-08 | Modern Sky Lab上海 | 脆弱少女组，雾虹，解离的真实
+
+02-03 | Chair Club | 张岭
+
+02-02 | 尚演谷 有营HOUSE | 瓦兹妙赞六周年（水苗，Mister Lady，万岁爷，暴走蜗牛，胶壳）
+
+01-26 | 万代南梦宫 | The Pains of Being Pure at Heart
+
 01-14 | 万代南梦宫 | Cicada
 
 01-13 | Chair Club | 迷幻祭 Vol.2（水门汀，海豚踢，鸭听天，谷水车间，Junky）
