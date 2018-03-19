@@ -2,6 +2,12 @@
 
 ## 2018
 
+03-18 | Modern Sky Lab上海 | 万晓利
+
+03-17 | Modern Sky Lab上海 | 赌鬼“只要你过得比我好”全国巡演（和平和浪暖场）
+
+03-16 | MAO | Beach Fossils
+
 03-12 | 万代南梦宫 | Mogwai
 
 03-11 | MAO | 天堂
