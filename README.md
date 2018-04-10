@@ -2,6 +2,26 @@
 
 ## 2018
 
+04-13 | 万代南梦宫 | 布衣
+
+04-10 | 哈雷 | 橙子的花朵，Pineapple，Appetite
+
+04-08 | Modern Sky Lab上海 | deca joins + 落日飞车
+
+04-07 | MAO | 伤心欲绝（大布偶，柏林的雾暖场）
+
+04-04 | Modern Sky Lab上海 | Young Blood十强决赛
+
+04-01 | 育音堂 | Alpine Decline重返荒湖巡演（解离的真实暖场）
+
+03-31 | 育音堂 | 荷尔蒙小姐（谷水车间暖场）
+
+03-30 | 育音堂 | PAELLAS上海站（和平和浪，大布偶暖场）
+
+03-27 | 育音堂 | 半人马第十八场（汪文伟+竹马，於阗+戴哲，韩涵）
+
+03-25 | MAO | We Lost The Sea
+
 03-18 | Modern Sky Lab上海 | 万晓利
 
 03-17 | Modern Sky Lab上海 | 赌鬼“只要你过得比我好”全国巡演（和平和浪暖场）
