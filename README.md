@@ -2,6 +2,18 @@
 
 ## 2018
 
+04-26 | Chair Club | 弥藏
+
+04-24 | 育音堂 | 半人马第十九（於阗，戴哲，竹马，CHA CHA，严俊）
+
+04-21 | 育音堂 | 大波浪
+
+04-17 | 育音堂 | 李蓉明四重奏
+
+04-15 | Modern Sky Lab上海 | 草莓 warm up（和平和浪）
+
+04-14 | Modern Sky Lab上海 | 草莓 warm up（Nerve Passenger，City Flanker，不优雅显示，Yuck）
+
 04-13 | 万代南梦宫 | 布衣
 
 04-10 | 哈雷 | 橙子的花朵，Pineapple，Appetite
