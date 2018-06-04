@@ -2,6 +2,32 @@
 
 ## 2018
 
+06-03 | 万代南梦宫 | Childs
+
+06-02 | Modern Sky Lab上海 | 噪盯迷预热祭（柏林的雾，水门汀，Loft Beach，绝对纯洁）
+
+05-29 | 育音堂 | 玩（於阗+戴哲，汪文伟+竹马）
+
+05-28 | 育音堂 | 快熟了（太师，圈圈，流亡寺，不叫乐队）
+
+05-27 | MAO | 假假条（黄小岛暖场）
+
+05-26 | 育音堂 | 盘尼西林
+
+05-25 | 育音堂 | Ogre You Asshole（解离的真实暖场）
+
+05-20 | MAO | Iron & Wine
+
+05-17 | 育音堂 | 原子邦妮
+
+05-12 | Modern Sky Lab上海 | Supper Moment
+
+05-11 | 梅赛德斯奔驰 | 罗大佑 “当年离家的年轻人”
+
+05-10 | MAO | Summer Drunk Party（Nicole Bucker，Extinction）
+
+04-28 | 育音堂 | Mary See the Future
+
 04-26 | Chair Club | 弥藏
 
 04-24 | 育音堂 | 半人马第十九（於阗，戴哲，竹马，CHA CHA，严俊）
