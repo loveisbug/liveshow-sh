@@ -2,6 +2,16 @@
 
 ## 2018
 
+07-01 | 万代南梦宫 | 野孩子
+
+06-28 | 育音堂 | 街声大登陆第二季上海站（CICI，MULATA，Nerve Passenger，陆晨）
+
+06-24 | 育音堂 | 和平和浪（Jam暖场）
+
+06-22 | Modern Sky Lab上海 | 噪盯迷正餐（梅卡德尔，鸟撞，白虎，雨国）
+
+06-06 | 育音堂 | Rolf-Erik Nystrøm，Kouame Sereba，Juliana Venter
+
 06-03 | 万代南梦宫 | Childs
 
 06-02 | Modern Sky Lab上海 | 噪盯迷预热祭（柏林的雾，水门汀，Loft Beach，绝对纯洁）
@@ -24,7 +34,7 @@
 
 05-11 | 梅赛德斯奔驰 | 罗大佑 “当年离家的年轻人”
 
-05-10 | MAO | Summer Drunk Party（Nicole Bucker，Extinction）
+05-10 | MAO | Summer Drunk Party（Nicole Bucker，Extinction，...）
 
 04-28 | 育音堂 | Mary See the Future
 
@@ -38,7 +48,7 @@
 
 04-15 | Modern Sky Lab上海 | 草莓 warm up（和平和浪）
 
-04-14 | Modern Sky Lab上海 | 草莓 warm up（Nerve Passenger，City Flanker，不优雅显示，Yuck）
+04-14 | Modern Sky Lab上海 | 草莓 warm up（Nerve Passenger，City Flanker，不优雅先生，Yuck）
 
 04-13 | 万代南梦宫 | 布衣
 
