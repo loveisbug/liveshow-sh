@@ -2,9 +2,23 @@
 
 ## 2018
 
+08-19 | 哈雷 | leegof，周末搞事情，Bare Teeth
+
+08-19 | 安福大厅 | DATING Live #2（leegof）
+
+08-18 | LOFAS | leegof上海专场（不叫乐队）
+
+08-17 | 万代南梦宫 | 鸭打鹅“未来俱乐部”上海站（Foster Parents）
+
+08-11 | 静安体育中心 | 齐豫、潘越云《回声》巡回演唱会上海站
+
+08-05 | 育音堂 | 话梅鹿（暖场：大七）
+
+08-04 | 育音堂 | Scraps Of Tape（暖场：21 Grams）
+
 07-27 | 哈雷 | 花の火祭（不叫乐队，无罪释放，枯野）
 
-07-22 | 安福大厅 | AFLiveDating #1（Radium，SHIYI，Pupa）
+07-22 | 安福大厅 | DATING Live #1（Radium，SHIYI，Pupa）
 
 07-17 | 育音堂 | 玩！！！（汪文伟&於阗，L~N&戴哲）
 
