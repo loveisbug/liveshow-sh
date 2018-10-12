@@ -2,9 +2,35 @@
 
 ## 2018
 
-08-19 | 哈雷 | leegof，周末搞事情，Bare Teeth
+10-12 | 万代南梦宫 | 白百（甜又丧）
 
-08-19 | 安福大厅 | DATING Live #2（leegof）
+10-10 | 288 | 张岭
+
+10-10 | LOFAS | 雨国
+
+09-30 | MAO | MAO九周年（Round Eye，Loft Beach，陆晨&十四行诗，九宝）
+
+09-22 | 杭州MAO | 老王乐队
+
+09-19 | MAO | 烟把儿（暖场：黄小岛，周倜）
+
+09-13 | 育音堂 | Mild High Club（卧轨的火车）
+
+09-09 | 育音堂 | 表情银行（21 Grams）
+
+09-08 | 万代南梦宫 | 惘闻
+
+09-01 | DO ART SPACE | 另一个走廊（Silence Wave，Torturing Nurse）
+
+08-31 | 育音堂 | 十四行诗“Who are we”专场（左明良和他的石库门乐队，陆晨）
+
+08-22 | Modern Sky Lab上海 | Young Blood（迷叶，无栖，leegof，Maltesens琛，时峥峰）
+
+08-21 | 安福大厅 | DATING Live #2（leegof）
+
+08-20 | 育音堂 | OPEN MIC（leegof）
+
+08-19 | 哈雷 | leegof，周末搞事情，Bare Teeth
 
 08-18 | LOFAS | leegof上海专场（不叫乐队）
 
