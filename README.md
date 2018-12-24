@@ -2,7 +2,37 @@
 
 ## 2018
 
+12-23 | LOFAS | 不羁堂BOOGIE CAMP巡演 上海站（暖场：雷雨心，zc木蘭）
+
+12-22 | 育音堂 | 去公园散步才是正经事（Peach Illusion，the Cheers Cheers，chestnut bakery，动物园钉子户）
+
+12-21 | LOFAS | 谢铮（嘉宾：Sarah）
+
+12-20 | MAO | 心碎女孩俱乐部（Jojo卓娇，红豆，养鸡，Sarah）
+
+12-19 | MAO | Yoyo岑宁儿
+
+12-18 | LOFAS | 茄子蛋
+
+12-16 | 万代南梦宫 | 喵（老王，雾虹，脆弱少女组，告五人，落日飞车）
+
+12-15 | 万代南梦宫 | 卧轨的火车（暖场：也朋）
+
+12-14 | Modern Sky Lab上海 | 丁薇（嘉宾：李泉）
+
+12-08 | LOFAS | 左明良EP首发（暖场：陆晨，安来宁，吴维纯）
+
+12-08 | VAS | 地球吓了一跳（雷雨心，Merry Lamb Lamb，裸儿，舒大卫）
+
+12-07 | 万代南梦宫 | POLYPHIA
+
+12-02 | MAO | 先知玛莉
+
 12-01 | LOFAS | 昏鸦（the Tic Tac暖场）
+
+11-29 | MAO | 复古长袜派对（大七，像素棱镜，大布偶）
+
+11-28 | JZ Club | 潘高峰（号外暖场）
 
 11-24 | Chair Club | 菊田俊介
 
