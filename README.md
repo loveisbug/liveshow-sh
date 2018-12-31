@@ -2,13 +2,19 @@
 
 ## 2018
 
+12-28 | 育音堂 | 康姆士
+
+12-27 | LOFAS | 圣诞派对（和平和浪，马海平）
+
+12-24 | 育音堂 | PAELLAS（暖场：号外）
+
 12-23 | LOFAS | 不羁堂BOOGIE CAMP巡演 上海站（暖场：雷雨心，zc木蘭）
 
 12-22 | 育音堂 | 去公园散步才是正经事（Peach Illusion，the Cheers Cheers，chestnut bakery，动物园钉子户）
 
 12-21 | LOFAS | 谢铮（嘉宾：Sarah）
 
-12-20 | MAO | 心碎女孩俱乐部（Jojo卓娇，红豆，养鸡，Sarah）
+12-20 | MAO | 心碎女孩俱乐部（黄小岛，红豆，养鸡，Sarah）
 
 12-19 | MAO | Yoyo岑宁儿
 
