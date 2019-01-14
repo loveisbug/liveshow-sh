@@ -1,10 +1,24 @@
 # liveshow
 
+## 2019
+
+01-13 | 育音堂 | 无度拾遗（Pale Air，A Hidden Trace，Peach Illusion，Appendix）
+
+01-12 | 育音堂 | Twink（暖场：阿鸣，Loft Beach，Round Eye）
+
+01-11 | MAO | SNSOS，午夜乒乓，伤心欲绝
+
+01-05 | 育音堂 | 号外
+
+01-04 | 育音堂 | Life Awaits（暖场：Return to Sender，Forget and Forgive）
+
+01-03 | MAO | Pussy Cat（Minds of Billy，Before the Daylight，枯野，Many Faced God）
+
 ## 2018
 
 12-28 | 育音堂 | 康姆士
 
-12-27 | LOFAS | 圣诞派对（和平和浪，马海平）
+12-27 | LOFAS | 圣诞派对（和平和浪，马海平&雷雨心）
 
 12-24 | 育音堂 | PAELLAS（暖场：号外）
 
