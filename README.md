@@ -2,6 +2,14 @@
 
 ## 2019
 
+02-24 | 育音堂 | 东京茶（暖场：Flower N' Flames）
+
+02-16 | MAO | 心碎女孩俱乐部 Vol.2（蓝莲&樱桃与飞鸟，十一，红豆，提子）
+
+02-14 | 言几又长宁来福士店 | 琳大侠
+
+01-19 | 育音堂 | Indie Rock Vol.4（Dhalia Rosea玫瑰博士，Parachutes on Fire着火的降落伞，他方世界）
+
 01-13 | 育音堂 | 无度拾遗（Pale Air，A Hidden Trace，Peach Illusion，Appendix）
 
 01-12 | 育音堂 | Twink（暖场：阿鸣，Loft Beach，Round Eye）
@@ -28,7 +36,7 @@
 
 12-21 | LOFAS | 谢铮（嘉宾：Sarah）
 
-12-20 | MAO | 心碎女孩俱乐部（黄小岛，红豆，养鸡，Sarah）
+12-20 | MAO | 心碎女孩俱乐部 Vol.1（黄小岛，红豆，养鸡，Sarah）
 
 12-19 | MAO | Yoyo岑宁儿
 
