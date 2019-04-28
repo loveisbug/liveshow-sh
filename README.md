@@ -2,11 +2,31 @@
 
 ## 2019
 
+04-30 | 育音堂 | 霓虹救援队（命犯桃花，Clay Doll，绝对星等）
+
+04-28 | MAO | 安来宁（嘉宾：金鱼）
+
+04-27 | MAO | 白安
+
+04-26 | MAO | 心碎女孩俱乐部 Vol.4（琳大侠，太师，zc木蘭，徐菲）
+
+04-18 | MAO | 春·声 Spring Voice Vol.7（Clay Doll，推骨牌的人，A Band）
+
+04-14 | MAO | 夜雨连绵（柏林的雾，Pale Air，固体李逵）
+
+04-13 | Modern Sky Lab上海 | Wild Nothing
+
+04-12 | 育音堂 | 缺省（暖场：Peach Illusion）
+
+04-04 | 育音堂 | Indie Night Vol.5（Minds of Billy，不叫，Little Room）
+
+04-03 | 育音堂 | 上海魔都大乐队（陆晨&乐队，左明良&戎雀乐队，么么茶&QITA乐队）
+
 03-31 | 育音堂 | 椅子乐团
 
 03-30 | 育音堂 | 落差草原WWWW（暖场：金色希望）
 
-03-28 | MAO | 春·声 Spring Voice Vol.6（Flower N Flames，奇袭翠虎团，硬头皮，Boogie Daddy）
+03-28 | MAO | 春·声 Spring Voice Vol.6（Flower N' Flames，奇袭翠虎团，硬头皮，Boogie Daddy）
 
 03-24 | MAO | 梅卡德尔（暖场：印第安的夏天）
 
