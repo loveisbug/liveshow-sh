@@ -2,7 +2,11 @@
 
 ## 2019
 
-04-30 | 育音堂 | 霓虹救援队（命犯桃花，Clay Doll，绝对星等）
+05-04 | LOFAS | （佛喜儿，钟声）
+
+04-30 | 育音堂 | The Underground Calling Vol.2（推骨牌的人，）
+
+04-29 | 育音堂 | 山塘（Open Mic）
 
 04-28 | MAO | 安来宁（嘉宾：金鱼）
 
@@ -11,6 +15,8 @@
 04-26 | MAO | 心碎女孩俱乐部 Vol.4（琳大侠，太师，zc木蘭，徐菲）
 
 04-18 | MAO | 春·声 Spring Voice Vol.7（Clay Doll，推骨牌的人，A Band）
+
+04-15 | 育音堂 | 太师（Open Mic）
 
 04-14 | MAO | 夜雨连绵（柏林的雾，Pale Air，固体李逵）
 
