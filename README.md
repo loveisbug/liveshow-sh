@@ -2,7 +2,25 @@
 
 ## 2019
 
-05-04 | LOFAS | （佛喜儿，钟声）
+05-26 | 育音堂 | 劣质梦 Ep.3（飞行游戏，推骨牌的人，Nerve Passenger）
+
+05-23 | VAS | The Jesus and Mary Chain
+
+05-22 | 育音堂 | 民谣夜（孙博涵，李锐）
+
+05-18 | 梅赛德斯奔驰 | 伍佰
+
+05-17 | Timber Timbre
+
+05-16 | MAO | leech
+
+05-12 | 育音堂 | 骤雨来临之前（拾羽，飞古鹿海，他方世界，巧克力工厂）
+
+05-11 | LOFAS | 卫彬月（嘉宾：王愚，木琴，KIDDIN）
+
+05-09 | 杭州MAO | 伏特+少女（钟声，桃金娘，白侍卫，Shawee）
+
+05-04 | LOFAS | 可食用塑料（佛喜儿，钟声）
 
 04-30 | 育音堂 | The Underground Calling Vol.2（推骨牌的人，）
 
