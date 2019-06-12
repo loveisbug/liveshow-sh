@@ -2,6 +2,14 @@
 
 ## 2019
 
+06-09 | MAO | 双子座夜未眠（Broken Knee，二区六楼，莫比帝国，大布偶）
+
+06-02 | 杭州HI Livehouse | “一场对季夏的告白” leegof专场（嘉宾：凌西米）
+
+05-31 | 育音堂 | 白日密语（嘉宾：loft beach）
+
+05-29 | 育音堂 | 爵士民谣之夜（严雯君Moses，Juicy Loop）
+
 05-26 | 育音堂 | 劣质梦 Ep.3（飞行游戏，推骨牌的人，Nerve Passenger）
 
 05-23 | VAS | The Jesus and Mary Chain
