@@ -2,6 +2,20 @@
 
 ## 2019
 
+09-13 | MAO | 街声大登陆（二区六楼，Waylife生活方式，他方世界，头烧，五味子）
+
+09-08 | MAO | 露·声（鲸鱼纪，十一，Ghostnote+，无栖）
+
+09-01 | MAO | the fin.
+
+08-31 | LOFAS | LOFAS一周年（解离的真实，SUBS，刺猬）
+
+08-30 | 万代南梦宫 | 银河水手音乐会II（小巫师，雾虹，晨曦光廊）
+
+08-25 | VAS | 上海三角音乐公园（买辣椒也用券，大布偶，NITRODAY，钢心，重塑雕像的权利，ZAZEN BOYS）
+
+08-24 | VAS | 上海三角音乐公园（DAYS，PELICAN FANCLUB，OGRE YOU ASSHOLE，马赛克，Ame no Parade，羽果）
+
 08-19 | 育音堂 | OPEN MIC（不叫，）
 
 08-18 | VAS | 竹露荷风十周年（上海秋天，香蕉猴子，安来宁，Great Good Fine OK）
@@ -10,11 +24,13 @@
 
 08-17 | 创邑SPACE | 宇宙非热点音乐派对（钟声，薄荷绿，和平和浪）
 
-08-16 | MAO | zc木蘭“1995”专场
+08-16 | MAO | zc木蘭“1995”专场（嘉宾：Naggy，Mr. Trouble，阿克江）
 
 08-12 | 育音堂 | OPEN MIC（林恩，）
 
-08-11 | 育音堂 | 有胆你就来（钟声，技师，水门汀）
+08-11 | 育音堂 | Stay Together（，yourboyfriendsucks!）
+
+08-11 | 育音堂 | “月旦”——有胆你就来（钟声，技师，水门汀）
 
 08-09 | 育音堂 | 飞NX
 
