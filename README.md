@@ -2,9 +2,23 @@
 
 ## 2019
 
+09-30 | MAO | 上海MAO十周年（Carsick Cars，鬼否，解离的真实，和平和浪，囍适，陈柏霖&戎雀乐队）
+
+09-27 | 育音堂 |“月旦 Vol.2”——有胆你就来（十一，星幻，Faded Ghost(ChaCha)）
+
+09-22 | MAO | 热地
+
+09-21 | 华丽空间·50 | 光点国际新媒体艺术节（Kafuka+HEXPIXELS，Digital FUN+Jimmz，Faded Ghost+3EyesNuts）
+
+09-20 | 育音堂 | 失控派对（the flood，loft beach，香蕉猴子）
+
+09-15 | MAO | 迷恋——声音玩具，木马（嘉宾：二区六楼）
+
 09-13 | MAO | 街声大登陆（二区六楼，Waylife生活方式，他方世界，头烧，五味子）
 
 09-08 | MAO | 露·声（鲸鱼纪，十一，Ghostnote+，无栖）
+
+09-07 | VAS | 告五人
 
 09-01 | MAO | the fin.
 
