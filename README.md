@@ -1,6 +1,74 @@
 # liveshow
 
+## 2020
+
+01-04 | 育音堂 | 摇滚红白（星幻，Minds of Billy，周末班车，食无鱼）
+
+01-01 | MAO | 独秀（ETA，鬼否，皇后皮箱，和平和浪，王勉&CY）
+
 ## 2019
+
+12-31 | 育音堂 | 2019-2020跨年派对（Forsaken Autumn，十四行诗，绝对纯洁，香蕉猴子，蘑菇团，脏手指）
+
+12-27 | 育音堂 | ”I Feel Fine!“ Vol.2 上海（红色蔓延，POGONNIP，Forget And Forgive，Lie To Silence， VON CITIZEN）
+
+12-24 | VAS | 潮汐力（Angel Baby，贰伍吸烟所，Lillies and Remains，jan and naomi，Schoolgirl Byebye，Loft Beach）
+
+12-22 | 育音堂 | 打玩艺儿
+
+12-21 | 万代南梦宫 | 五条人
+
+12-20 | 育音堂 | 当数学遇见后摇 第五辑（48V，无高潮，NAMEUS，Trip Fuel）
+
+12-19 | 育音堂 | 乐夏寻星计划（，野外合作社）
+
+12-19 | VAS | VAS LIVE一周年（Young Gee，NINEONE#，Beatrich）
+
+12-16 | 育音堂 | Paul Gilbert亚洲巡演上海站
+
+12-15 | 育音堂 | 海皮威尔 x 柏林护士联合巡演（嘉宾：固体李逵，推骨牌的人）
+
+12-14 | 育音堂 | ”几月伤酒“ Nerve Passenger 2019巡演上海站（嘉宾：无栖）
+
+12-11 | 育音堂 | ”the last show“ PAELLAS告别演出
+
+12-07 | LOFAS | Crocodiles & A Place To Bury Strangers（嘉宾：推骨牌的人）
+
+12-01 | 育音堂 | Tokyo Shoegazer x 缺省 x Star Horse
+
+11-30 | MAO | 许含光
+
+11-29 | VAS | 午夜剧烈运动（夏日苏打，隔壁团，康姆士，梅卡德尔）
+
+11-26 | 北京MAO | 街声大登陆第三季北京站牛犊DAY（白鲨，大都会乐团，Ghostnote+，阁楼演奏班，Summer Vapour）
+
+11-25 | School | 兵马司12周年演出北京番外场（，Lonely Leary，Muzzy Mum，Rustic，Project Ace，简迷离，）
+
+11-24 | 育音堂 | 藏在你的房间（生煎）（happy little cat，Kirin Trio，Atta Girl，动物园钉子户）
+
+11-23 | Modern Sky Lab上海 | GANG OF FOUR
+
+11-22 | Lofas | 地下婴儿
+
+11-21 | Modern Sky Lab上海 | King Gizzard & The Lizard Wizard
+
+11-17 | 育音堂 | 解压SPA Vol.1（赖雨彤，无栖，周末班车）
+
+11-16 | 育音堂 | 先知玛莉
+
+11-15 | 育音堂 | 白目乐队
+
+11-14 | 育音堂 | U.TA屋塔（嘉宾：推骨牌的人）
+
+11-13 | VAS | 山形瑞秋
+
+11-10 | 万代南梦宫 | 情绪出口（Nerve Passenger，RUBUR，固体李逵，Nameus，上海秋天）
+
+11-08 | 万代南梦宫 | 超级市场
+
+11-07 | MAO | Hard Candy（嘉宾：Minds of Billy，Karmic Demise）
+
+11-03 | 育音堂 | 白皮书（嘉宾：固体李逵）
 
 10-27 | 万代南梦宫 | 義氣狗系列巡演第一季“-流放-”（，Crossfaith）
 
